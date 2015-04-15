@@ -1,0 +1,11 @@
+<header>
+	<img src="assets/img/logo.png" alt="Good Year">
+	<div class="desktop-tablet-lang">
+		<p>Other Goodyear sites</p>
+		<p><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</p>
+	</div>
+	<div class="mobile-actions">
+		<p><img src="assets/img/mobileMenu.png" alt="Search in Good Year"></p>
+		<p><img src="assets/img/search.png" alt="Search in Good Year"></p>
+	</div>
+</header>

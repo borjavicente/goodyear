@@ -1,0 +1,21 @@
+<nav class="gy-menu">
+    <li><img src="assets/img/logo.png" alt="Good Year"></li>
+    <li>Tires</li>
+    <li>Learn</li>
+    <li>Why Goodyear?</li>
+    <li>Find a dealer</li>
+    <li><img src="assets/img/search.png" alt="Search in Goodyear"></li>
+    <li class="only-mobile"><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</li>
+    <li class="only-mobile">Other Goodyear sites</li>
+</nav>
+<script type="text/javascript">
+document.body.addEventListener('click', function() {
+    if (window.innerWidth <= '640') {
+        if (this.className == 'transitionIn') {
+            this.className = 'transitionOut';
+        } else {
+            this.className = 'transitionIn';
+        }
+    }
+});
+</script>

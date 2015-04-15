@@ -1,0 +1,66 @@
+@import 'colors';
+@import 'fonts';
+@import 'mixings';
+
+header {
+	height : 95px;
+	width : 100%;
+	& img {
+		height: 95px;
+	}
+
+	& .desktop-tablet-lang {
+		display: block;
+
+		position : absolute;
+		right: 0px;
+		width: auto;
+		top : 0px;
+		font: $gy-labels;
+		color: $gy-basic;
+		line-height: 50px;
+		& > * {
+			float: right;
+			padding-right : 20px;
+			& img {
+				padding: 0px 17.5px;
+				width: 30px;
+				height: auto;
+				margin-bottom: -3px;
+			}
+
+		}
+	}
+	& .mobile-actions {
+		display: none;
+	}
+}
+
+.gy-menu {
+	position:inherit;
+	list-style:none;
+	display:table;
+	width:100%;
+	height:50px;
+	text-align:center;
+	background:$gy-primary-link;
+	& > * {
+		background:$gy-primary-link;
+		padding:14px 20px;
+		border-right : 1px solid $gy-thirdary;
+		display:table-cell;
+		color:$gy-primary;
+		font: $gy-h5;
+		&:nth-last-of-type(3){
+	        @include resetBorderBg();
+			display:table-cell;
+		}
+		&:nth-last-of-type(2){
+	        display: none;
+		}
+		&:nth-last-of-type(1) {
+	        display: none;
+		}
+
+    }
+}
