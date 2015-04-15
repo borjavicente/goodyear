@@ -1,4 +1,4 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/transitions\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/transitions\.scss}line{font-family:\000031}}
 .transitionIn {
   -webkit-animation: transitionIn 0.5s forwards;
   /* Chrome, Safari, Opera */
@@ -10,7 +10,7 @@
     -webkit-transform: translate(0px, 0px); }
   to {
     -webkit-transform: translate(-265px, 0px); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/transitions\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/transitions\.scss}line{font-family:\0000319}}
 .transitionOut {
   -webkit-animation: transitionOut 0.5s forwards;
   /* Chrome, Safari, Opera */
@@ -25,7 +25,7 @@
 /*
 *  html5 doctor css reset | http://html5doctor.com/html-5-reset-stylesheet
 */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\000039}}
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -35,27 +35,27 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   vertical-align: baseline;
   background: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000310}}
 body {
   line-height: 1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000311}}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000312}}
 nav ul {
   list-style: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000313}}
 blockquote, q {
   quotes: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000314}}
 blockquote:before, blockquote:after, q:before, q:after {
   content: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000315}}
 a {
   margin: 0;
   padding: 0;
@@ -63,34 +63,34 @@ a {
   vertical-align: baseline;
   background: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000316}}
 ins {
   background-color: #ff9;
   color: #000;
   text-decoration: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000317}}
 mark {
   background-color: #ff9;
   color: #000;
   font-style: italic;
   font-weight: bold; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000318}}
 del {
   text-decoration: line-through; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000319}}
 abbr[title], dfn[title] {
   border-bottom: 1px dotted;
   cursor: help; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000320}}
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000321}}
 hr {
   display: block;
   height: 1px;
@@ -99,49 +99,49 @@ hr {
   margin: 1em 0;
   padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000322}}
 input, select {
   vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000324}}
 body {
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000329}}
 header {
   height: 55px;
   width: 100%;
   background: #0055A4;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000334}}
   header img {
     height: 55px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000338}}
   header .desktop-tablet-lang {
     display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000341}}
   header .mobile-actions {
     position: absolute;
     right: 0px;
     width: auto;
     top: 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000346}}
     header .mobile-actions > * {
       float: right;
       padding: 12.5px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000350}}
       header .mobile-actions > * img {
         padding: 5px 17.5px;
         width: 20px;
         height: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000354}}
         header .mobile-actions > * img:first-child {
           border-right: 1px solid #001930; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000359}}
       header .mobile-actions > *:first-child img {
         border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000369}}
 .gy-menu {
   position: absolute;
   top: 0px;
@@ -150,28 +150,34 @@ header {
   width: 265px;
   height: 100%;
   background: #001930; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000377}}
   .gy-menu > * {
     padding: 22.5px 20px;
     background: #01294C;
     border-bottom: 1px solid #001930;
     color: #FFDF1B;
     font: normal 18px/20px Helvetica Neue; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000383}}
     .gy-menu > *:nth-child(1) {
       display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000386}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000386}}
     .gy-menu > *:nth-last-of-type(3) {
       display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000389}}
     .gy-menu > *:nth-last-of-type(2) {
       border: none;
       background: transparent;
       color: #FFF; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/baseline\.scss}line{font-family:\0000393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\0000393}}
     .gy-menu > *:nth-last-of-type(1) {
       border: none;
       background: transparent;
       color: #FFF; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyear\/assets\/sass\/baseline\.scss}line{font-family:\00003100}}
+.container {
+  background: url(../img/bg-desktop.png) no-repeat center center;
+  background-size: cover;
+  height: 100%; }
 
 /*# sourceMappingURL=baseline.css.map */

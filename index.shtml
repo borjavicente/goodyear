@@ -12,5 +12,6 @@
 <body>
 	<!--#include file="htmlTemplates/modules/header.shtml" -->
 	<!--#include file="htmlTemplates/modules/menu.shtml" -->
+	<!--#include file="htmlTemplates/modules/content.shtml" -->
 </body>
 </html>
