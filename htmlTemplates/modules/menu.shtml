@@ -8,14 +8,3 @@
     <li class="only-mobile"><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</li>
     <li class="only-mobile">Other Goodyear sites</li>
 </nav>
-<script type="text/javascript">
-document.body.addEventListener('click', function() {
-    if (window.innerWidth <= '640') {
-        if (this.className == 'transitionIn') {
-            this.className = 'transitionOut';
-        } else {
-            this.className = 'transitionIn';
-        }
-    }
-});
-</script>

@@ -13,5 +13,6 @@
 	<!--#include file="htmlTemplates/modules/header.shtml" -->
 	<!--#include file="htmlTemplates/modules/menu.shtml" -->
 	<!--#include file="htmlTemplates/modules/content.shtml" -->
+	<script type="text/javascript" data-main="assets/js/config.js" src="assets/js/lib/require.js"></script>
 </body>
 </html>
