@@ -1,0 +1,18 @@
+<!DOCTYPE shtml>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="assets/css/baseline.css" media="screen">
+	<link rel="stylesheet" href="assets/css/desktop.css" media="screen and (min-width:1025px)">
+	<link rel="stylesheet" href="assets/css/tablet.css" media="screen and (min-width:640px) and (max-width:1024px)">
+</head>
+<body>
+	<!--#include file="htmlTemplates/modules/header.shtml" -->
+	<!--#include file="htmlTemplates/modules/menu.shtml" -->
+	<!--#include file="htmlTemplates/modules/content.shtml" -->
+	<script type="text/javascript" data-main="assets/js/config.js" src="assets/js/lib/require.js"></script>
+</body>
+</html>

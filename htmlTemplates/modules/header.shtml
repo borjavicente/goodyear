@@ -1,0 +1,11 @@
+<header>
+	<img src="assets/img/logo.png" alt="Good Year" role="link">
+	<div class="desktop-tablet-lang">
+		<p><a tabindex="1" href="" title=""><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</a></p>
+		<p><a tabindex="2" href="" title="">Other Goodyear sites</a></p>
+	</div>
+	<div class="mobile-actions" role="link">
+		<p><a tabindex="3" href="" title=""><img src="assets/img/mobileMenu.png" alt="Search in Good Year"></a></p>
+		<p><a tabindex="4" href="" title=""><img src="assets/img/search.png" alt="Search in Good Year"></a></p>
+	</div>
+</header>

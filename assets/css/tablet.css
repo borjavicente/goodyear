@@ -1,0 +1,61 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\000035}}
+header {
+  height: 95px;
+  width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\000038}}
+  header img {
+    height: 95px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000312}}
+  header .desktop-tablet-lang {
+    display: block;
+    position: absolute;
+    right: 0px;
+    width: auto;
+    top: 0px;
+    font: normal 14px/20px Arial;
+    color: #FFF;
+    line-height: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000322}}
+    header .desktop-tablet-lang > * {
+      float: right;
+      padding-right: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000325}}
+      header .desktop-tablet-lang > * img {
+        padding: 0px 17.5px;
+        width: 30px;
+        height: auto;
+        margin-bottom: -3px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000334}}
+  header .mobile-actions {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000339}}
+.gy-menu {
+  position: inherit;
+  list-style: none;
+  display: table;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background: #0055A4; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000347}}
+  .gy-menu > * {
+    background: #0055A4;
+    padding: 14px 20px;
+    border-right: 1px solid #001930;
+    display: table-cell;
+    color: #FFDF1B;
+    font: normal 18px/20px Helvetica Neue; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000354}}
+    .gy-menu > *:nth-last-of-type(3) {
+      border: none;
+      background: transparent;
+      display: table-cell; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000358}}
+    .gy-menu > *:nth-last-of-type(2) {
+      display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/esnebovi\/Documents\/sites\/goodyear\/goodyearlikeasia\/assets\/sass\/tablet\.scss}line{font-family:\0000361}}
+    .gy-menu > *:nth-last-of-type(1) {
+      display: none; }
+
+/*# sourceMappingURL=tablet.css.map */

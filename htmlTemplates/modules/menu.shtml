@@ -1,0 +1,10 @@
+<nav class="gy-menu" role="menu">
+    <li role="menuitem"><a tabindex="5" href="" title=""><img src="assets/img/logo.png" alt="Good Year"></a></li>
+    <li role="menuitem"><a tabindex="6" href="" title="">Tires</a></li>
+    <li role="menuitem"><a tabindex="7" href="" title="">Learn</a></li>
+    <li role="menuitem"><a tabindex="8" href="" title="">Why Goodyear?</a></li>
+    <li role="menuitem"><a tabindex="9" href="" title="">Find a dealer</a></li>
+    <li role="menuitem"><a tabindex="10" href="" title=""><img role="search" src="assets/img/search.png" alt="Search in Goodyear"></a></li>
+    <li role="menuitem" class="only-mobile"><a tabindex="11" href="" title=""><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</a></li>
+    <li role="menuitem" class="only-mobile"><a tabindex="12" href="" title="">Other Goodyear sites</a></li>
+</nav>
