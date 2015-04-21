@@ -42,10 +42,11 @@ header {
 		display: none;
 	}
 	& .mobile-actions {
+
 		position : absolute;
 		right: 0px;
 		width: auto;
-		top : 0px;
+		top: 0px;
 		& > * {
 			float: right;
 			padding: 12.5px 0px;

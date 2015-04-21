@@ -7,4 +7,5 @@
     <li role="menuitem"><a tabindex="10" href="" title=""><img role="search" src="assets/img/search.png" alt="Search in Goodyear"></a></li>
     <li role="menuitem" class="only-mobile"><a tabindex="11" href="" title=""><img src="assets/img/deutchland.png" alt="Deutschland">&nbsp;&nbsp;Deutschland</a></li>
     <li role="menuitem" class="only-mobile"><a tabindex="12" href="" title="">Other Goodyear sites</a></li>
+
 </nav>
